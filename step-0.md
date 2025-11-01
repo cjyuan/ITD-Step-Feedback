@@ -1,7 +1,6 @@
-# Step 0
+# [Step 0](https://itd.codeyourfuture.io/steps/zero/#instructions)  
 
-[Instructions](https://itd.codeyourfuture.io/steps/zero/#instructions)  
-[Acceptance Criteria](https://itd.codeyourfuture.io/steps/zero/#acceptance-criteria)
+### [Acceptance Criteria](https://itd.codeyourfuture.io/steps/zero/#acceptance-criteria)
 - You have joined the CodeYourFuture ITD Slack.
 - You have updated your Slack profile name to match your name on the CYF Course Platform so we can recognise you.
 - You have posted a message introducing yourself in the #introduce-yourself-to-codeyourfuture channel.
