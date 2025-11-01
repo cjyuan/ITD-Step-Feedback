@@ -32,8 +32,8 @@
 > You can usually find this option in the formatting or text settings menu.
 > Thanks!
 
-#### 4. Answers to question 3 were not quite correct 
-##### Feedback (We can still accept the submission)
+--- 
+##### Feedback to be given when the answer to question 3 is not quite correct
 > For questions 3, actions that are not quite appropriate include:
 >
 > 2\. Giving an AI tool their assigned problems and ask it to solve them for them. They then copy and paste the output, making no edits.  
