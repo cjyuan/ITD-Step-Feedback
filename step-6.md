@@ -36,6 +36,7 @@
 ##### Feedback
 > In your Google Doc, can you also include your answers to these two questions and add one to three
 > sentences explaining why you chose the answers you did?
->  - Do you understand it all?
->  - Has any of the code been pasted from an AI tools or elsewhere?
+> - Do you understand it all?
+> - Has any of the code been pasted from an AI tools or elsewhere?
+> - What worked and what didn’t work when prompting the AI?
 
