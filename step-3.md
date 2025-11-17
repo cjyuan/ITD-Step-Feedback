@@ -23,7 +23,7 @@
 #### 3. No filtered result
 ##### Feedback
 > Your Google Sheet does not show the filtered results. (Item 9 in the instructions)  
-> It is possible that you used a temporary filter by selecting "**Create filter view**". 
+> It is possible that you used a temporary filter by selecting "**Create filter view**".  
 > To create a permanent filtered result which you can share with others, select "**Create a filter**" instead.
 
 #### 4. Filters not applied to all columns (only applied to Date and Point of Sales columns)
