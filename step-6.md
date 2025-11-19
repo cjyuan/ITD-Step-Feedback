@@ -34,7 +34,7 @@
 
 #### 4. Not answering the two questions in the instructions
 ##### Feedback
-> In your Google Doc, can you also include your answers to these two questions and add one to three
+> In your Google Doc, can you also include your answers to these three questions and add one to three
 > sentences explaining why you chose the answers you did?
 > - Do you understand it all?
 > - Has any of the code been pasted from an AI tools or elsewhere?
