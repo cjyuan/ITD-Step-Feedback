@@ -30,7 +30,7 @@
 > If you wrote your code on that page, you would not be able to save or share it.
 >
 > 
-> To save your code, you need to click the "Fork" button at the lower-right corner of the page to clone it into your own account first.
+> To be able to save your code, you need to click the "Fork" button at the lower-right corner of the page to clone it into your own account first.
 
 #### 4. Not answering the two questions in the instructions
 ##### Feedback
