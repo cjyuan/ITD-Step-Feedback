@@ -19,7 +19,7 @@
 > Suggestion: Look up  
 > How to grant public viewer permission to a Google Doc.
 
-#### 2. Accessed denied
+#### 2. Explanation omitted
 ##### Feedback
 > The instructions also ask for one to three sentences explaining why you chose your answers.
 >
