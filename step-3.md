@@ -12,7 +12,7 @@
 
 ### Common Rejected Reasons
 
-#### 1. Access Denined
+#### 1. Access Denied
 ##### Feedback
 > Can you grant public "Viewer" permission to the Google sheet and resubmit the link. Otherwise we cannot view its content.
 
