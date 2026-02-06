@@ -18,7 +18,9 @@
 > Can you share a screenshot of your message that is posted in the #introduce-yourself-to-codeyourfuture channel on the ITD Slack Workspace?
 
 
-#### 2. Slack display name does not contain any part of their name on the Dashboard
+#### 2. They did not include any part of their name in their Slack "display name" or in their Slack profile
+
+**Note**: If they did not include part of their name in their Slack display name, you will need to lookup their profile on Slack.
 
 ##### Feedback
 > We couldn’t find your name on the Course Platform. Could you please edit your Slack display
