@@ -18,7 +18,7 @@
 
 #### 2. Data not ordered by dates in ascending order
 ##### Feedback
-> You forgot to order the data by dates in ascending order (one of the requirements in item 9 in the instructions).
+> Can you order the data by dates in ascending order (to meet one of the requirements in item 9 in the instructions)?
 
 #### 3. No filtered result
 ##### Feedback
