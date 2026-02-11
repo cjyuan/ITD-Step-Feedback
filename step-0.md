@@ -25,3 +25,8 @@
 ##### Feedback
 > We couldn’t find your name on the Course Platform. Could you please edit your Slack display
 > name to include either your first or last name, and then submit another screenshot?
+
+#### 3. Screenshot does not include the channel name
+> The screenshot you shared does not quite show your message was posted in the #introduce-yourself-to-codeyourfuture channel on the ITD Slack Workspace.
+>
+> Can you share a screenshot that includes both your message and the channel name? It is ok if the screenshot includes messages posted by other users.
