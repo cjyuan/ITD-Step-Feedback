@@ -34,14 +34,27 @@
 > However, if filters are applied to all relevant columns, then reordering ensures that the data across all columns remains properly aligned.
 
 #### 5. Incorrect filter settings
-##### Feedback
+##### Feedback 1
 > The filtering condition on the **Date** column was not set up correctly.
 > 
 > To select dates that fall between **1 June 2024 and 31 Dec 2024**,
 > consider filter the dates **by condition** and use the condition
-> **is between** to specify dates between 1 June 2024 and 31 Dec 2024.
+> **"is between"** to specify dates between 1 June 2024 and 31 Dec 2024.
 
 ---
+#### Feedback 2
+> These filtering criteria have not yet been met:
+> (1) Point of Sale is London or Glasgow
+> To fulfill this condition, you need to select both "London" and "Glasgow" on the Point of Sale column.
+>
+> (2) Date is between 1 June 2024 and 31 December 2024
+> To fulfill this condition, consider filter the dates **by condition** and use the condition **"is between"** to specify dates between 01/06/2024 and 31/12/2024.
+>
+> (3) Order the rows by Date in ascending order
+> You can configure the filter on the Date column to order the data by dates.
+
+---
+
 > The filtering and ordering requirements listed in item 9 of the instructions were not implemented properly.
 > Can you set up the filters so that your sheet shows only 12 rows of data, similar to those in the sample output?
 
