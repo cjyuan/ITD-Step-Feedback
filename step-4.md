@@ -31,6 +31,5 @@
 > There are some errors in your HTML code. Can you fix them?
 > 
 > You can use CodePen's "HTML Analyzer" to locate the errors.
-> If you need help fixing your errors, you can share your **CodePen link** to an AI tool and ask it relevant questions.
-
+> If you need help fixing your errors, you can try sharing your code to an AI tool and ask it to check for errors.
 
