@@ -23,7 +23,7 @@
 >
 > Can you address these issues and resubmit your CodePen link?
 >
-> If you need help fixing your code, you can share your **CodePen link** to an AI tool and ask it the relevant questions.
+> If you need help fixing your code, you can share your code to an AI tool and ask it the relevant questions.
 
 
 #### 4. Only HTML errors
