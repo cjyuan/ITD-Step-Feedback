@@ -17,7 +17,7 @@
 >
 > Can you address this issue and resubmit your GitHub Pages link?
 
-#### 2. The deployed the "wrong" page
+#### 2. They deployed the "wrong" page
 Possible reasons: 
 - They uploaded the `dist` folder (instead of the files inside)
 - They uploaded the ZIP file instead of the files extracted from it.
@@ -29,3 +29,11 @@ Possible reasons:
 > To deploy your site, move the contents of the dist folder into the root folder of your repository.
 >
 > If an `index.html` file is not present in the root folder, GitHub Pages will instead display the `README.md` file by default.
+
+
+#### 3. They submitted a link to their GitHub repository instead of the link to their deployed page on GitHub Pages
+
+> The link you submitted is not a link to your webpage on GitHub Pages.
+>
+> Please follow the instructions in "4. Create a repository for your website" and "5. Deploy your webpage on GitHub Pages" 
+> to deploy your CodePen page to GitHub Pages. 
