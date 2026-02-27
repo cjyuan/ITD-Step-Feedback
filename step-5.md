@@ -26,9 +26,16 @@ Possible reasons:
 ##### Feedback
 > GitHub Pages requires your website files to be located in the repository’s **root** (**top-level**) folder.
 >
+> If an `index.html` file is not present in the root folder, GitHub Pages will instead display the `README.md` file by default.
+>
 > To deploy your site, move the contents of the dist folder into the root folder of your repository.
 >
-> If an `index.html` file is not present in the root folder, GitHub Pages will instead display the `README.md` file by default.
+>
+> Your website files are the files inside the "dist" sub-folder. You need to "move" them to the root folder of your repository.
+> 
+> You can "move" the files on GitHub by renaming them on GitHub, or you can upload those files to the top-level folder of your repository.
+
+
 
 
 #### 3. They submitted a link to their GitHub repository instead of the link to their deployed page on GitHub Pages
