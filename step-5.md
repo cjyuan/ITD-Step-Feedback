@@ -37,10 +37,30 @@ Possible reasons:
 
 
 
-
 #### 3. They submitted a link to their GitHub repository instead of the link to their deployed page on GitHub Pages
 
 > The link you submitted is not a link to your webpage on GitHub Pages.
 >
 > Please follow the instructions in "4. Create a repository for your website" and "5. Deploy your webpage on GitHub Pages" 
 > to deploy your CodePen page to GitHub Pages. 
+
+#### 4. The GitHub Repository does not contain an `index.html`
+Your repository has been set up correctly for deployment on GitHub Pages.
+
+At the moment, though, the page being displayed is the content of your `README.md` file rather than the webpage you created in CodePen.
+
+Pleae review the instructions in section **"4. Create a repository for your website"** and follow them closely 
+to download your webpage files from CodePen and upload them to your repository.
+
+When the steps are completed properly, the top-level folder of your repository should contain the following files:
+(1) `index.html`
+(2) `style.css`
+
+
+
+
+
+
+
+
+
