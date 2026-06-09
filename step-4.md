@@ -25,6 +25,10 @@
 >
 > If you need help fixing your code, you can share your code to an AI tool and ask it the relevant questions.
 
+---
+Some of the images are not displaying correctly. Please verify each image URL to ensure it points to a publicly accessible image.
+
+One way to confirm that a URL is publicly accessible is to open it in an incognito browser window. If the image loads successfully without requiring authentication, the URL is likely accessible to external users.
 
 #### 4. Only HTML errors
 
