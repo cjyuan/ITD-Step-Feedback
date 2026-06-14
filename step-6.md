@@ -1,6 +1,6 @@
-# [Step 5](https://itd.codeyourfuture.io/steps/five/#instructions)  
+# [Step 6](https://curriculum.codeyourfuture.io/itd/steps/six/#instructions)  
 
-### [Acceptance Criteria](https://itd.codeyourfuture.io/steps/five/#acceptance-criteria)
+### [Acceptance Criteria](https://curriculum.codeyourfuture.io/itd/steps/six/#acceptance-criteria)
 - You have successfully deployed your personal webpage from Step 4 using GitHub Pages.
 - The URL of the deployed webpage includes your first name, last name, or both.
 - The link to the deployed webpage has been submitted on the CYF Course Platform.
