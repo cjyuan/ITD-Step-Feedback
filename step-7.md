@@ -1,6 +1,6 @@
-# [Step 6](https://itd.codeyourfuture.io/steps/six/#instructions)  
+# [Step 7](https://curriculum.codeyourfuture.io/itd/steps/seven/#instructions)  
 
-### [Acceptance Criteria](https://itd.codeyourfuture.io/steps/six/#acceptance-criteria)
+### [Acceptance Criteria](https://curriculum.codeyourfuture.io/itd/steps/seven/#acceptance-criteria)
 - Your Google Doc contains a link to your CodePen containing the solution
 - Your Google Doc contains a screenshot which meets the requirements in the instructions
 - Your Google Doc contains a link to your conversation with the AI
