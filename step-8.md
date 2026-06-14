@@ -1,6 +1,6 @@
-# [Step 7](https://itd.codeyourfuture.io/steps/seven/#instructions)  
+# [Step 8](https://curriculum.codeyourfuture.io/itd/steps/eight/#instructions)  
 
-### [Acceptance Criteria](https://itd.codeyourfuture.io/steps/seven/#acceptance-criteria)
+### [Acceptance Criteria](https://curriculum.codeyourfuture.io/itd/steps/eight/#acceptance-criteria)
 - You have taken the Duolingo Practice Test.
 - Your score is 100 or higher, which is equivalent to level B2 or above.
 - You have uploaded a screenshot of your Duolingo test result.
