@@ -1,6 +1,6 @@
-# [Step 1](https://itd.codeyourfuture.io/steps/one/#instructions)  
+# [Step 2](https://curriculum.codeyourfuture.io/itd/steps/two/#instructions)  
 
-### [Acceptance Criteria](https://itd.codeyourfuture.io/steps/one/#acceptance-criteria)
+### [Acceptance Criteria](https://curriculum.codeyourfuture.io/itd/steps/two/#acceptance-criteria)
 - You have submitted your answers in the “Slack and Search Engine Exercise” and scored at least 25/30.
 - You have saved your Result Page (Score Summary Page) as a PDF file. The PDF file includes your name, your score, and your answers.
 - You have uploaded the PDF file to the CYF Course Platform.
