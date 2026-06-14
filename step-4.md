@@ -1,6 +1,6 @@
-# [Step 3](https://itd.codeyourfuture.io/steps/three/#instructions)  
+# [Step 4](https://curriculum.codeyourfuture.io/itd/steps/four/#instructions)  
 
-### [Acceptance Criteria](https://itd.codeyourfuture.io/steps/three/#acceptance-criteria)
+### [Acceptance Criteria](https://curriculum.codeyourfuture.io/itd/steps/four/#acceptance-criteria)
 - You have edited, formatted, and applied filters on the Sales Data Google Sheet according to the instructions.
 - You have added your name to the Google Sheet’s file name (title).
 - You have made the Google sheet publicly viewable.
