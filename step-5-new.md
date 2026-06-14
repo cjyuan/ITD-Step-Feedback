@@ -1,6 +1,6 @@
-# [Step 4](https://itd.codeyourfuture.io/steps/four/#instructions)  
+# [Step 5](https://itd.codeyourfuture.io/steps/five/#instructions)  
 
-### [Acceptance Criteria](https://itd.codeyourfuture.io/steps/four/#acceptance-criteria)
+### [Acceptance Criteria](https://itd.codeyourfuture.io/steps/five/#acceptance-criteria)
 - You prepared your personal webpage on CodePen.
 - Your webpage meets all the criteria
   - Contains \> 100 words, 3 images (one of which is centered), a list
@@ -36,4 +36,11 @@ One way to confirm that a URL is publicly accessible is to open it in an incogni
 > 
 > You can use CodePen's "HTML Analyzer" to locate the errors.
 > If you need help fixing your errors, you can try sharing your code to an AI tool and ask it to check for errors.
+
+#### 5. Using Pen 2.0 without preparing full HTML document
+> With Pen 2.0, you must create a complete HTML document that includes the `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>` tags.
+>
+> If creating a full HTML document is inconvenient, you can use Pen Classic instead, which allows you to build your webpage without requiring the complete document structure.
+
+
 
