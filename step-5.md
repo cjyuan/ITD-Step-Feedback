@@ -1,6 +1,6 @@
-# [Step 5](https://itd.codeyourfuture.io/steps/five/#instructions)  
+# [Step 5](https://curriculum.codeyourfuture.io/itd/steps/five/#instructions)  
 
-### [Acceptance Criteria](https://itd.codeyourfuture.io/steps/five/#acceptance-criteria)
+### [Acceptance Criteria](https://curriculum.codeyourfuture.io/itd/steps/five/#acceptance-criteria)
 - You prepared your personal webpage on CodePen.
 - Your webpage meets all the criteria
   - Contains \> 100 words, 3 images (one of which is centered), a list
