@@ -1,6 +1,6 @@
-# [Step 2](https://itd.codeyourfuture.io/steps/two/#instructions)  
+# [Step 3](https://curriculum.codeyourfuture.io/itd/steps/three/#instructions)  
 
-### [Acceptance Criteria](https://itd.codeyourfuture.io/steps/two/#acceptance-criteria)
+### [Acceptance Criteria](https://curriculum.codeyourfuture.io/itd/steps/three/#acceptance-criteria)
 - You have answered all three questions
 - You have provided one to three sentences explaining each answer
 - You have submitted the Google Doc link on the CYF Course Platform
