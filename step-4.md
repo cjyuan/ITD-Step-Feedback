@@ -38,7 +38,7 @@
 > The filtering condition on the **Date** column was not set up correctly.
 > 
 > To select dates that fall between **1 June 2024 and 31 Dec 2024**,
-> consider filter the dates **by condition** and use the condition **"is between"** to specify dates between 01/06/2024 and 31/12/2024.
+> a more practical approach is to filter the dates **by condition** and use the condition **"is between"** to specify dates between 01/06/2024 and 31/12/2024.
 
 ---
 #### Feedback 2
