@@ -44,3 +44,13 @@ One way to confirm that a URL is publicly accessible is to open it in an incogni
 
 
 
+
+#### 6. Pen 2.0 (Syntax errors in HTML and/or CSS)
+> There are some syntax errors in your HTML and CSS code. Could you fix all of them?
+>
+> To validate HTML code, you could use the [W3C Markup Validation Service](https://validator.w3.org/)  
+> To validate CSS code, you could use the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) 
+
+
+
+
