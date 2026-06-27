@@ -60,8 +60,7 @@
 
 #### 6. Filters not applied to the row with the column headers
 ##### Feedback
-> Filters should be applied to the row with the column headers.
-> Because you applied the filters to the row above the headers, the headers were also filtered out.
+Filters apply to all rows beneath the row where they are created. If you create filters on row 1, they will also affect the header rows (rows 2 and 3). Instead, create the filters on the column header row (row 3) so that only the data below the headers is filtered.
 
 #### 7. Did not include their name in the Google Sheet title
 ##### Feedback
