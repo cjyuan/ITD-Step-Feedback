@@ -12,7 +12,7 @@
 
 #### 1. The URL of the page does not include their first or last name
 ##### Feedback
-> One of the acceptance criteria (https://itd.codeyourfuture.io/steps/five/#acceptance-criteria) has not yet been met:  
+> One of the acceptance criteria (https://itd.codeyourfuture.io/steps/six/#acceptance-criteria) has not yet been met:  
 > - The URL of the deployed webpage includes your first name, last name, or both.
 >
 > Can you address this issue and resubmit your GitHub Pages link?
