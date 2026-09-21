@@ -51,6 +51,10 @@ One way to confirm that a URL is publicly accessible is to open it in an incogni
 > To validate HTML code, you could use the [W3C Markup Validation Service](https://validator.w3.org/)  
 > To validate CSS code, you could use the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) 
 
+---
+According to W3C HTML validator, there are some errors in your HTML code. Could you use https://validator.w3.org to check your HTML code and then fix all the errors?
+
+If you need help locating or fixing the errors, you could show your code to an AI tool and ask it relevant questions.
 
 
 
