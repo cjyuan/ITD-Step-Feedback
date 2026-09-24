@@ -36,7 +36,7 @@
 ##### Feedback to be given when the answer to question 3 is not quite correct
 > Please note that in question 3, there are more than one appropriate actions one could take.
 
-> Why sending a direct message to a volunteer might not be appropriate:
+> Please note that "sending a direct message to a volunteer" should only be used as the last resort because:
 > - Volunteers give their time freely, so it's better to ask questions in public channels where everyone can see and help.
 >   This way, the volunteer's time is respected, and other people can also learn from the answer.
 
