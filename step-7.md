@@ -9,9 +9,6 @@
 - You have submitted a link to your Google doc
 - You wrote the code in your CodePen yourself. You didn’t copy+paste it from an AI tool
 
-### Acceptable 
-- They didn't share any AI conversation link because they did not use AI to derive the solution.
-
 ### Common Rejected Reasons
 
 #### 1. CodePen page contains no CSS code (The page is NOT CYF's original page)
@@ -26,7 +23,7 @@
 > 
 > To be able to save your code, you need to click the "Fork" button at the lower-right corner of the page to clone it into your own account first.
 
-### 3. Did not submit a Google Doc with all required items.
+#### 3. Did not submit a Google Doc with all required items.
 > Step 7 expects a Google Doc with several items.
 > For more info, please refer to the [acceptance criteria](https://curriculum.codeyourfuture.io/itd/steps/seven/#acceptance-criteria) of Step 7.
 
@@ -37,5 +34,13 @@
 > - Has any of the code been pasted from an AI tools or elsewhere?
 > - What worked and what didn’t work when prompting the AI?
 
+#### 5. Page does not meet all requirements
 
+#### Feedback (Delete the satisfied requirements)
+> The current implementation does not yet meet the following requirements:
+> - The element with the class of "parent" has a dotted border.
+> - The element with the class of "parent" is centred on the page even if the screen size changes.
+> - The div elements with the class "child" have background colors, borders, rounded corners and margins between them.
+> - The div elements with the class "child" stay inside the element with the class "parent" even if the screen size changes.
+> - The div elements with the class "child" are centred within the element with the class "parent".
 
