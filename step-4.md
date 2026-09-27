@@ -10,6 +10,11 @@
 - Trinees submitted a link to an MS Excel file on Office 365
 - The format is a bit off (Note: use your discretion)
 
+
+#### [Sample Result](https://docs.google.com/spreadsheets/d/17tShmthHkYSEBJZlgczp8zt2eeRdo1uE5nCiHtFU7cc/edit?gid=0#gid=0)
+
+Note: This Google Sheet is set up in such a way that public can view but cannot copy it.
+
 ### Common Rejected Reasons
 
 #### 1. Access Denied
