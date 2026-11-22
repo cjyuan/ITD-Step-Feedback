@@ -3,7 +3,7 @@
 ### [Acceptance Criteria](https://curriculum.codeyourfuture.io/itd/steps/seven/#acceptance-criteria)
 - Your Google Doc contains a link to your CodePen containing the solution
 - Your Google Doc contains a screenshot which meets the requirements in the instructions
-- Your Google Doc contains a link to your conversation with the AI
+- Your Google Doc contains answers to the questions in the “4. Self Check” section
 - Your Google Doc has your name in the title
 - Your Google doc is public
 - You have submitted a link to your Google doc
