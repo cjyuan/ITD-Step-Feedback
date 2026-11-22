@@ -38,10 +38,22 @@ You can use CodePen's "HTML Analyzer" to locate the errors.
 If you need help fixing your errors, you can try sharing your code to an AI tool and ask it to check for errors.
 
 ---
-#### 5. Using Pen 2.0 without preparing full HTML document
-With Pen 2.0, you must create a complete HTML document that includes the `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>` tags.
+#### 5. Using CodePen 2.0 without preparing full HTML document
+With CodePen 2.0, you must create a complete HTML document that includes the `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>` tags.
 
 If creating a full HTML document is inconvenient, you can use Pen Classic instead, which allows you to build your webpage without requiring the complete document structure.
+
+---
+**Current your CSS code is not yet linked to your HTML code. You would have to either rename your HTML file, or explicitly prepare a complete HTML document and use `<link>` tag link your CSS to your HTML.**
+
+In CodePen 2.0, the filename determines how CodePen processes your HTML:
+
+- `index.html` - Expects a complete HTML document, including <!DOCTYPE html>, <html>, <head> and <body>. You manage the document structure and link CSS and JavaScript yourself.
+
+- `index.pen.html` - Uses the classic CodePen approach. You write only the HTML that would normally go inside the <body>. CodePen automatically supplies the surrounding HTML structure and connects your main CSS and JavaScript files using its Classic Block.
+
+
+
 
 ---
 #### 6. Pen 2.0 (Syntax errors in HTML and/or CSS)
