@@ -48,9 +48,9 @@ If creating a full HTML document is inconvenient, you can use Pen Classic instea
 
 In CodePen 2.0, the filename determines how CodePen processes your HTML:
 
-- `index.html` - Expects a complete HTML document, including <!DOCTYPE html>, <html>, <head> and <body>. You manage the document structure and link CSS and JavaScript yourself.
+- `index.html` - Expects a complete HTML document, including `<!DOCTYPE html>`, `<html>`, `<head>` and `<body>`. You manage the document structure and link CSS and JavaScript yourself.
 
-- `index.pen.html` - Uses the classic CodePen approach. You write only the HTML that would normally go inside the <body>. CodePen automatically supplies the surrounding HTML structure and connects your main CSS and JavaScript files using its Classic Block.
+- `index.pen.html` - Uses the classic CodePen approach. You write only the HTML that would normally go inside the `<body>`. CodePen automatically supplies the surrounding HTML structure and connects your main CSS and JavaScript files using its Classic Block.
 
 
 
